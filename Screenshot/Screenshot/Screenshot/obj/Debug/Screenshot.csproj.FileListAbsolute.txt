@@ -1,0 +1,28 @@
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot.csprojResolveAssemblyReference.cache
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\MainWindow.baml
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\App.baml
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\MainWindow.g.cs
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\App.g.cs
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot_MarkupCompile.cache
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot.g.resources
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot.Properties.Resources.resources
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot.csproj.GenerateResource.Cache
+D:\Samle Project\Screenshot\Screenshot\bin\Debug\Screenshot.exe.config
+D:\Samle Project\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+D:\Samle Project\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot.exe
+D:\Samle Project\Screenshot\Screenshot\obj\Debug\Screenshot.pdb
+F:\Code\Screenshot\Screenshot\Screenshot\bin\Debug\Screenshot.exe.config
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot.exe
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot.pdb
+F:\Code\Screenshot\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+F:\Code\Screenshot\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot.csprojResolveAssemblyReference.cache
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\MainWindow.baml
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\App.baml
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\MainWindow.g.cs
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\App.g.cs
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot_MarkupCompile.cache
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot.g.resources
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot.Properties.Resources.resources
+F:\Code\Screenshot\Screenshot\Screenshot\obj\Debug\Screenshot.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+﻿<Window x:Class="Screenshot.MainWindow"
+        Icon="Icon\favicon.ico"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Screenshot" Height="50" Width="100"
+        
+        Closing="createZip">
+    <Grid>
+        <Button Name="Capture" Click="capture_click" Content="Capture" />
+    </Grid>
+</Window>
